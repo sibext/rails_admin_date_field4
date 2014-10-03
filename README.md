@@ -10,7 +10,7 @@ Installation
 
 Add gem to Gemfile:
 
-    gem 'rails_admin_', github: 'sibext/rails_admin_enum4'
+    gem 'rails_admin_date_field4', github: 'sibext/rails_admin_date_field4'
 
 Execute from console:
 
